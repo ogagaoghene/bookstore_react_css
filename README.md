@@ -29,15 +29,13 @@ Start the server
 ```bash
   npm run start
 ```
-## Run tests
-Go to the project directory
+
+## Running Tests
+
+To run tests, run the following command 
 
 ```bash
-  cd bookstore_react_css
-```
-Run the test
-```bash
-  npm test
+  npm run test
 ```
 
 ## Author

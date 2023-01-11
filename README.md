@@ -1,27 +1,44 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# BookStore CMS Web Application built with React and Redux
+# BookStore CMS App
 
 > This is my first project of the BookStore CMS Web Application.
 
-## Setup
-Clone this repository
-- git clone https://github.com/ogagaoghene/book-store-app.git
-- cd math_magicians-app
+## Tech Stack
 
-## Run project
-- npm run start
-- npm run build
+**Client:** JavaScript, React, Webpack, Jest
 
+## Run Locally
+Clone the project
+
+```bash
+  git clone https://github.com/ogagaoghene/bookstore_react_css.git
+```
+Go to the project directory
+
+```bash
+  cd bookstore_react_css
+```
+Install dependencies
+
+```bash
+  npm install
+```
+Start the server
+
+```bash
+  npm run start
+```
 ## Run tests
-To run the test just use the following command!
-$ npm test
+Go to the project directory
 
-## Built With
-- React
-- JavaScript
-- Webpack
-- CSS
+```bash
+  cd bookstore_react_css
+```
+Run the test
+```bash
+  npm test
+```
 
 ## Author
 
